@@ -1,5 +1,5 @@
 {
-    "name": "puneet/verify.org",
+    "name": "coverify/vlang",
     "type": "project",
     "license": "Boost",
     "description": "Opensource Functional Verification Language built on top of D Programming Language",
