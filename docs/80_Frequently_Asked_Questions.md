@@ -33,5 +33,29 @@ text goes here
 1. ### Is there any user group on Vlang ?
 text goes here
 
+1. ### How Vlang UVM is different than SV-UVM ?
+text goes here
 
+1. ### How do I make use of pointers in Vlang ?
+text goes here
 
+1. ### What are Standard Template Model ?
+text goes here
+
+1. ### How do I debug my Vlang test bench ?
+text goes here
+
+1. ### Why Vlang is an extension library and not a stand-alone compiler ?
+text goes here
+
+1. ### How do I contribute to Vlang development as an independent individual ?
+text goes here
+
+1. ### What is meant by multicore concurrency ?
+text goes here
+
+1. ### I own a very small company, how can Vlang help me ?
+text goes here
+
+1. ### If I encounter a bug, where and how do I get support ?
+text goes here
